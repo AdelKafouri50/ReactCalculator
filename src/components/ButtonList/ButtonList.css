@@ -1,0 +1,7 @@
+.flex-row-container {
+    display: grid;
+    width: 50vh;
+    margin: 0;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    
+}

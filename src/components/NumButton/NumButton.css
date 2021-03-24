@@ -1,0 +1,12 @@
+.NumButton{
+    padding: 25%;
+    background-color: rgb(0, 32, 31);
+    color: white;
+    font-size: 1.2em;
+    width:100%;
+    cursor: pointer;
+    outline:none;
+    border-radius:0.5em;
+    font-weight:bold;
+    
+}
